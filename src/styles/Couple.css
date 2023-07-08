@@ -1,7 +1,5 @@
 /* Big Screens */
 #couple {
-    background: #000428;
-    background: radial-gradient(circle, #000428 0%, #eab46e 100%);
     background: #9cecfb;
     background: linear-gradient(to bottom right, #9cecfb, #65c7f7, #9cecfb);
     position: relative;
